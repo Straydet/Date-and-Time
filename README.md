@@ -15,4 +15,5 @@ _To use this filterscript you must download it from the repository, the "DAT" fi
 _Para usar éste filterscript debera descargarlo desde el repositorio, el archivo "DAT" tendra que moverlo a la carpeta **filterscripts** de su servidor, debera compilarlo para que obtenga el `.axm`, luego debera añadir el filterscript en el archivo llamado **server.cfg** de su servidor._
 
 # _Previsualización - Previsualization_
-![](https://media.discordapp.net/attachments/1101409343242502187/1101409996606013450/unknown.png?width=1025&height=233)
+![](https://media.discordapp.net/attachments/1101409343242502187/1101409996606013450/unknown.png?ex=693fb8fe&is=693e677e&hm=483e73d5016bc691ac5dd25f231d91ad206acb9105372378f02e864def32028a&=&format=webp&quality=lossless)
+
